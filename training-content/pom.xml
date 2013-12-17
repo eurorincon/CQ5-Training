@@ -43,6 +43,7 @@
 				</resources>
 				<plugins>
 					<!-- use the vault plugin to create & install the package -->
+					<!-- dfndjfdlfj -->
 					<plugin>
 						<groupId>com.day.jcr.vault</groupId>
 						<artifactId>content-package-maven-plugin</artifactId>
