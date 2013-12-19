@@ -9,6 +9,6 @@
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Accenture CQ5 Training Site"
-        jcr:uuid="f0587a2b-967e-48c7-b009-a0404ae5c911"
+        jcr:uuid="59463557-92d3-4e3f-8bfa-c9a6b76d1d7e"
         sling:resourceType="wcm/core/components/designer"/>
 </jcr:root>
