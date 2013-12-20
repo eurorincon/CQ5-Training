@@ -1,5 +1,6 @@
 <%@ include file="/libs/foundation/global.jsp" %>
 
 <header >
-        <cq:include path="topnav" resourceType="accenture-training/components/templates/base_home/topnav"/>
+
+<h1>hola america</h1>
 </header>

@@ -6,5 +6,5 @@
     allowedPaths="[/content(/.*)?]">
     <jcr:content
         jcr:primaryType="cq:PageContent"
-        sling:resourceType="accenture-training/components/templates/base"/>
+        sling:resourceType="accenture-training/components/templates/base_home"/>
 </jcr:root>

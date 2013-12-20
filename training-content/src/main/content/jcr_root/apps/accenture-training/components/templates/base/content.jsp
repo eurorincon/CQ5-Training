@@ -1,9 +1,9 @@
 <%@ include file="/libs/foundation/global.jsp" %>
 <div class="content">
     <h1>111 CONTENT GOES HERE&nbsp;</h1>
-	<div class="heroContent">
-		<img class="heroImg" title="Hero Image" src="img/heroimage.jpg" alt="Top Image" />
-	</div>
+    <div class="heroContent">
+        <cq:include path="par" resourceType="foundation/components/parsys"/> 
+    </div>
 </div>
 
 <!-- 
